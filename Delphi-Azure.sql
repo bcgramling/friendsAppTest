@@ -1,0 +1,1 @@
+INSERT INTO FRIENDS (friendName, emailAddr, age, favoriteColor) VALUES ('Justin', 'Justin@gmail.com', '21', 'black');
